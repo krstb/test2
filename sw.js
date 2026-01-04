@@ -1,4 +1,4 @@
-const CACHE_NAME = 'schwimmbad-mit_2_muster'; // Ändere v2 zu v3, v4 etc., um Updates zu erzwingen
+const CACHE_NAME = 'schwimmbad_2_muster'; // Ändere v2 zu v3, v4 etc., um Updates zu erzwingen
 const ASSETS = [
   'index.html',
   'manifest.json'
